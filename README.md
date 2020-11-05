@@ -12,7 +12,7 @@ I'm enrolled in the undergrad course of *Information Systems* (2nd semester). I'
 ---
 
 ## Sobre
-Estou na graduação de *Sistemas de Informação* (2a fase). Sou entusiasta de tecnologia com interesse especial em Gerenciamento de Tempo. Eu curto criar algo do nada. Eu também curto café, *trabalho em equipe*, donuts, *programação*, livres sobre *Política e Cibersegurança*, a experiência de comunidade e networking, e Linux. Atualmente trabalho na Empresa Júnior de Sistemas de Informação e Ciências da Computação (**Pixel**) da UFSC. Também faço outros trabalhos autônomos.
+Estou na graduação de *Sistemas de Informação* (2a fase). Sou entusiasta de tecnologia com interesse especial em Gerenciamento de Tempo. Eu curto criar algo do nada. Eu também curto café, *trabalho em equipe*, donuts, *programação*, livros sobre *Política e Cibersegurança*, a experiência de comunidade e networking, e Linux. Atualmente trabalho na Empresa Júnior de Sistemas de Informação e Ciências da Computação (**Pixel**) da UFSC. Também faço outros trabalhos autônomos.
 
 ### Estou aqui pra aprender, compartilhar o que sei e manter um registro das coisas.
 - [x] **Atualmente focada em**: *Python e Programação Orientada a Objetos*.
