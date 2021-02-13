@@ -14,7 +14,7 @@ I'm enrolled in the undergrad course of *Information Systems* (3rd semester). I'
 
 ### I'm here to learn, to share what I know and to keep a track of it all.
 - [x] **Currently focused**: *Python and Object-Oriented Programming.*
-- [x] **Interested in**: *JavaScript, Node.js, HTML5, CSS3, Bootstrap.*
+- [x] **Interested in**: *HTML5, CSS3, JSON, XML, Bulma, Bootstrap, JavaScript, Node.js, ReactJS.*
 - [x] **Subject Areas**: *Startups, Entrepreneurship, Cybersecurity, Research, International Political Economy.*
 - [x] **Languages**: *Portuguese (Native), English (Fluent), Spanish (Fluent), German (Intermediary) and French (Basic).*
 - [x] **Fun fact**: *I've got an International Relations bachelor's degree and a master's degree on International Political Economy.*
