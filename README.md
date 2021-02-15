@@ -3,7 +3,7 @@ Estou na graduação de *Sistemas de Informação* (3a fase). Sou entusiasta de 
 
 ### Estou aqui para aprender, compartilhar o que sei e manter um registro das coisas.
 - [x] **Atualmente focada em**: *Python e Programação Orientada a Objetos*.
-- [x] **Interessada em**: * HTML5, CSS3, JSON, XML, Bulma, Bootstrap, JavaScript, Node.js, ReactJS.*
+- [x] **Interessada em**: *HTML5, CSS3, JSON, XML, Bulma, Bootstrap, JavaScript, Node.js, ReactJS.*
 - [x] **Áreas**: *Startups, Empreendedorismo, Cibersegurança, Pesquisa, Economia Política Internacional.*
 - [x] **Idiomas**: *Português (Nativo), Inglês (Fluente), Espanhol (Fluente), Alemão (Intermediário) e Francês (Básico).*
 - [x] **Curiosidade**: *Tenho bacharelado em Relações Internacionais e Mestrado Acadêmico em Economia Política Internacional.*
