@@ -11,7 +11,7 @@ Estou na graduação de *Sistemas de Informação* (3a fase). Sou entusiasta de 
 - [x] **Networking**: [GitHub](https://github.com/barbaracalderon), [Twitter](https://twitter.com/bcalderoni_ti), [Linkedin](https://linkedin.com/in/bcalderoni), [Rocketseat App](https://app.rocketseat.com.br/me/barbara-calderon-00405)
 
 ### Estou aqui para aprender, compartilhar o que sei e manter um registro das coisas.
-Por este motivo, compartilho as minhas anotações de estudo em repositórios públicos aqui no GitHub:
+Por este motivo, além de códigos, eu também compartilho anotações de estudo em repositórios públicos aqui no GitHub:
 
 Sobre | Repositório
 :------| :--------------------
@@ -34,7 +34,7 @@ I'm enrolled in the undergrad course of *Information Systems* (3rd semester). I'
 
 
 ### I'm here to learn, to share what I know and to keep a track of it all.
-For this reason, I share my study notes on public repositories here on GitHub:
+For this reason, besides sharing codes, I also share study notes on public repositories here on GitHub:
 
 About | Repository
 :------| :--------------------
