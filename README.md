@@ -4,6 +4,7 @@ Estou na graduação de *Sistemas de Informação* (3a fase). Sou entusiasta de 
 ### Estou aqui para aprender, compartilhar o que sei e manter um registro das coisas.
 Por este motivo, compartilho as minhas anotações de estudo em repositórios públicos aqui no GitHub:
 - notes-on-python
+- notes-on-javascript
 - notes-on-javascript-for-react-native
 - etc.
 
@@ -22,6 +23,7 @@ I'm enrolled in the undergrad course of *Information Systems* (3rd semester). I'
 ### I'm here to learn, to share what I know and to keep a track of it all.
 For this reason, I share my study notes on public repositories here on GitHub:
 - notes-on-python
+- notes-on-javascript
 - notes-on-javascript-for-react-native
 - etc.
 
