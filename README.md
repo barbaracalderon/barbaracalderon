@@ -15,10 +15,10 @@ Por este motivo, além de códigos, eu também compartilho anotações de estudo
 
 Sobre | Repositório
 :------| :--------------------
-Python| notes-on-python
-JavaScript| notes-on-javascript
-JavaScript| notes-on-javascript-for-react-native
-CSS| notes-on-css
+Python| [notes-on-python](https://github.com/barbaracalderon/notes-on-python)
+JavaScript| [notes-on-javascript](https://github.com/barbaracalderon/notes-on-javascript)
+JavaScript| [notes-on-javascript-for-react-native](https://github.com/barbaracalderon/notes-on-javascript-for-react-native)
+CSS| [notes-on-css](https://github.com/barbaracalderon/notes-on-css)
 
 ---
 ## About Me
@@ -39,7 +39,7 @@ For this reason, besides sharing codes, I also share study notes on public repos
 
 About | Repository
 :------| :--------------------
-Python| notes-on-python
-JavaScript| notes-on-javascript
-JavaScript| notes-on-javascript-for-react-native
-CSS| notes-on-css
+Python| [notes-on-python](https://github.com/barbaracalderon/notes-on-python)
+JavaScript| [notes-on-javascript](https://github.com/barbaracalderon/notes-on-javascript)
+JavaScript| [notes-on-javascript-for-react-native](https://github.com/barbaracalderon/notes-on-javascript-for-react-native)
+CSS| [notes-on-css](https://github.com/barbaracalderon/notes-on-css)
