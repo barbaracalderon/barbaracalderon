@@ -3,8 +3,8 @@ Estou na graduação de *Sistemas de Informação* (3a fase). Sou entusiasta de 
 
 ## Infos Gerais
 
-- [x] **Atualmente focada em**: *Python e Programação Orientada a Objetos*.
-- [x] **Interessada em**: *HTML5, CSS3, JSON, XML, Bulma, Bootstrap, JavaScript, Node.js, ReactJS.*
+- [x] **Atualmente focada em**: *Python, HTML5, CSS3, JavaScript*.
+- [x] **Interessada em**: *JSON, XML, Bulma, Bootstrap, Node.js, ReactJS, Angular.*
 - [x] **Áreas**: *Startups, Empreendedorismo, Cibersegurança, Pesquisa, Economia Política Internacional.*
 - [x] **Idiomas**: *Português (Nativo), Inglês (Fluente), Espanhol (Fluente), Alemão (Intermediário) e Francês (Básico).*
 - [x] **Curiosidade**: *Tenho bacharelado em Relações Internacionais e Mestrado Acadêmico em Economia Política Internacional.*
@@ -26,8 +26,8 @@ I'm enrolled in the undergrad course of *Information Systems* (3rd semester). I'
 
 ## General Infos
 
-- [x] **Currently focused**: *Python and Object-Oriented Programming.*
-- [x] **Interested in**: *HTML5, CSS3, JSON, XML, Bulma, Bootstrap, JavaScript, Node.js, ReactJS.*
+- [x] **Currently focused**: *Python, HTML5, CSS3, JavaScript.*
+- [x] **Interested in**: *JSON, XML, Bulma, Bootstrap, Node.js, ReactJS, Angular.*
 - [x] **Subject Areas**: *Startups, Entrepreneurship, Cybersecurity, Research, International Political Economy.*
 - [x] **Languages**: *Portuguese (Native), English (Fluent), Spanish (Fluent), German (Intermediary) and French (Basic).*
 - [x] **Fun fact**: *I've got an International Relations bachelor's degree and a master's degree on International Political Economy.*
