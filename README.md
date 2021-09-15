@@ -22,7 +22,7 @@ CSS| [notes-on-css](https://github.com/barbaracalderon/notes-on-css)
 
 ---
 ## About Me
-I'm enrolled in the undergrad course of *Information Systems* (3rd semester). I'm a technology enthusiast, with a special interest in Time Management. I crave creating something out of nothing. I also like coffee, *teamwork*, donuts, *programming*, books on *Politics and Cybersecurity*, the community and networking experience, and Linux. I currently work at two places: I'm an intern at DBJus (Information technology company focused on data intelligence in Legal Proceedings) and I'm a dev at **Pixel** (UFSC's Junior Company of Information Systems and Computer Science). I'm also a member of the  Student Branch of the Institute of Electrical and Electronics Engineers (IEEE) at the same University. Furthermore, I also work on a diversified number of autonomous projects on the side.
+I'm enrolled in the undergrad course of *Information Systems* (3rd semester). I'm a technology enthusiast, with a special interest in Time Management. I crave creating something out of nothing. I also like coffee, *teamwork*, donuts, *programming*, books on *Politics and Cybersecurity*, the community and networking experience, and Linux. I currently work at two places: I'm an intern at **DBJus** (Information Technology Company focused on data intelligence in Legal Proceedings) and I'm a dev at **Pixel** (UFSC's Junior Company of Information Systems and Computer Science). I'm also a member of the  Student Branch of the Institute of Electrical and Electronics Engineers (IEEE) at the same University. Furthermore, I also work on a diversified number of autonomous projects on the side.
 
 ## General Infos
 
