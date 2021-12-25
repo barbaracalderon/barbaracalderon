@@ -15,10 +15,11 @@ Por este motivo, além de códigos, eu também compartilho anotações de estudo
 
 Sobre | Repositório
 :------| :--------------------
+Web Development| [notes-on-css](https://github.com/barbaracalderon/notes-on-css), [simple-grid-layout-landing-page](https://github.com/barbaracalderon/simple-grid-layout-landing-page), [codewell-landing-page](https://github.com/barbaracalderon/codewell-landing-page), [fcc-ada-lovelace-tribute](https://github.com/barbaracalderon/fcc-ada-lovelace-tribute), [fcc-survey-form](https://github.com/barbaracalderon/fcc-survey-form)
 Python| [notes-on-python](https://github.com/barbaracalderon/notes-on-python)
 JavaScript| [notes-on-javascript](https://github.com/barbaracalderon/notes-on-javascript)
 JavaScript| [notes-on-javascript-for-react-native](https://github.com/barbaracalderon/notes-on-javascript-for-react-native)
-CSS| [notes-on-css](https://github.com/barbaracalderon/notes-on-css)
+
 
 ---
 ## About Me
@@ -39,7 +40,8 @@ For this reason, besides sharing codes, I also share study notes on public repos
 
 About | Repository
 :------| :--------------------
+Web Development| [notes-on-css](https://github.com/barbaracalderon/notes-on-css), [simple-grid-layout-landing-page](https://github.com/barbaracalderon/simple-grid-layout-landing-page), [codewell-landing-page](https://github.com/barbaracalderon/codewell-landing-page), [fcc-ada-lovelace-tribute](https://github.com/barbaracalderon/fcc-ada-lovelace-tribute), [fcc-survey-form](https://github.com/barbaracalderon/fcc-survey-form)
 Python| [notes-on-python](https://github.com/barbaracalderon/notes-on-python)
 JavaScript| [notes-on-javascript](https://github.com/barbaracalderon/notes-on-javascript)
 JavaScript| [notes-on-javascript-for-react-native](https://github.com/barbaracalderon/notes-on-javascript-for-react-native)
-CSS| [notes-on-css](https://github.com/barbaracalderon/notes-on-css)
+
