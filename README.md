@@ -3,9 +3,9 @@ Estou na graduação de *Sistemas de Informação* (4a fase). Sou entusiasta de 
 
 ## Infos Gerais
 
-- [x] **Atualmente focada em**: *Python, HTML5, CSS3, JavaScript*.
-- [x] **Interessada em**: *JSON, XML, Bulma, Bootstrap, Node.js, ReactJS, Angular.*
-- [x] **Áreas**: *Startups, Empreendedorismo, Cibersegurança, Pesquisa, Economia Política Internacional.*
+- [x] **Atualmente focada em**: *HTML5, CSS3, JavaScript, Node.js, React.js, UI-UX*.
+- [x] **Interessada em**: *Python, Requests, BeautifulSoup, Crawlers, Scraping, Bulma, Bootstrap, Angular.*
+- [x] **Áreas**: *Startups, Programação, Eng. de Software, Empreendedorismo, Cibersegurança, Pesquisa, Economia Política Internacional.*
 - [x] **Idiomas**: *Português (Nativo), Inglês (Fluente), Espanhol (Fluente), Alemão (Intermediário) e Francês (Básico).*
 - [x] **Curiosidade**: *Tenho bacharelado em Relações Internacionais e Mestrado Acadêmico em Economia Política Internacional.*
 - [x] **Networking**: [GitHub](https://github.com/barbaracalderon), [Twitter](https://twitter.com/bcalderoni_ti), [Linkedin](https://linkedin.com/in/bcalderoni), [Rocketseat App](https://app.rocketseat.com.br/me/barbara-calderon-00405)
@@ -27,9 +27,9 @@ I'm enrolled in the undergrad course of *Information Systems* (4th semester). I'
 
 ## General Infos
 
-- [x] **Currently focused**: *Python, HTML5, CSS3, JavaScript.*
-- [x] **Interested in**: *JSON, XML, Bulma, Bootstrap, Node.js, ReactJS, Angular.*
-- [x] **Subject Areas**: *Startups, Entrepreneurship, Cybersecurity, Research, International Political Economy.*
+- [x] **Currently focused**: *HTML5, CSS3, JavaScript, Node.js, React.js, UI-UX.*
+- [x] **Interested in**: *Python, Requests, BeautifulSoup, Crawlers, Scraping, JSON, XML, Bulma, Bootstrap.*
+- [x] **Subject Areas**: *Startups, Programming, Software Engineering, Entrepreneurship, Cybersecurity, Research, International Political Economy.*
 - [x] **Languages**: *Portuguese (Native), English (Fluent), Spanish (Fluent), German (Intermediary) and French (Basic).*
 - [x] **Fun fact**: *I've got an International Relations bachelor's degree and a master's degree on International Political Economy.*
 - [x] **Networking**: [GitHub](https://github.com/barbaracalderon), [Twitter](https://twitter.com/bcalderoni_ti), [Linkedin](https://linkedin.com/in/bcalderoni), [Rocketseat App](https://app.rocketseat.com.br/me/barbara-calderon-00405)
