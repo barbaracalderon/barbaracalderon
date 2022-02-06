@@ -1,4 +1,7 @@
 ## Sobre
+
+### Conheça meu portfolio: [barbaracalderon.github.io](https://barbaracalderon.github.io/)
+
 Estou na graduação de *Sistemas de Informação* (5a fase). Sou entusiasta de tecnologia com interesse especial em Gestão de Tempo. Eu curto criar algo do nada. Eu também curto café, *trabalho em equipe*, donuts, *programação*, livros sobre *Política e Cibersegurança*, a experiência de comunidade e networking, e Linux. Atualmente trabalho em dois locais: sou estagiária na **DBJus** (Empresa de Tecnologia da Informação focada na Inteligência de Dados em Processos Judiciais) e sou dev na **Pixel** (Empresa Júnior de Sistemas de Informação e Ciências da Computação da UFSC). Também sou membro do Ramo Estudantil da *Institute of Electrical and Electronics Engineers* (IEEE) na Universidade. Além disso, faço projetos autônomos diversificados em paralelo.
 
 ## Infos Gerais
@@ -21,6 +24,9 @@ JavaScript| [notes-on-javascript](https://github.com/barbaracalderon/notes-on-ja
 
 ---
 ## About Me
+
+### Check out my portfolio: [barbaracalderon.github.io](https://barbaracalderon.github.io/)
+
 I'm enrolled in the undergrad course of *Information Systems* (5th semester). I'm a technology enthusiast, with a special interest in Time Management. I crave creating something out of nothing. I also like coffee, *teamwork*, donuts, *programming*, books on *Politics and Cybersecurity*, the community and networking experience, and Linux. I currently work at two places: I'm an intern at **DBJus** (Information Technology Company focused on data intelligence in Legal Proceedings) and I'm a dev at **Pixel** (UFSC's Junior Company of Information Systems and Computer Science). I'm also a member of the  Student Branch of the Institute of Electrical and Electronics Engineers (IEEE) at the same University. Furthermore, I also work on a diversified number of autonomous projects on the side.
 
 ## General Infos
