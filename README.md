@@ -4,7 +4,7 @@
 
 Estou na graduação de *Sistemas de Informação* (8a fase) pela __Universidade Federal de Santa Catarina__ (UFSC), Brasil. Sou entusiasta de tecnologia com interesse especial em __programação__. Eu curto criar algo do nada. 
 
-Eu também curto café preto, *trabalho em equipe*, molho pesto, *organização e gestão de tempo*, livros sobre *Política e Cibersegurança*, a experiência de comunidade, relações de networking e Linux. Atualmente sou desenvolvedora na **DBJus** (Empresa de Tecnologia da Informação focada na Inteligência de Dados em Processos Judiciais), pertencente ao grupo _Jive Investments_, e também realizo projetos autônomos diversificados em paralelo.
+Eu também curto café preto, *trabalho em equipe*, molho pesto, *organização e gestão de tempo*, livros sobre *Política e Cibersegurança*, a experiência de comunidade, relações de networking e Linux. Sou desenvolvedora na **DBJus** (Empresa de Tecnologia da Informação focada na Inteligência de Dados em Processos Judiciais), pertencente ao grupo _Jive Investments_, e também realizo projetos autônomos diversificados em paralelo.
 
 ## Infos Gerais
 
