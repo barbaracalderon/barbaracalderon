@@ -2,7 +2,7 @@
 
 ### Conheça meu portfolio: *em breve (re-construção)*
 
-Estou na graduação de *Sistemas de Informação* (8a fase) pela __Universidade Federal de Santa Catarina__ (UFSC), Brasil. Sou entusiasta de tecnologia com interesse especial em __programação__. Eu curto criar algo do nada. 
+Estou na graduação de *Sistemas de Informação* (9a fase) pela __Universidade Federal de Santa Catarina__ (UFSC), Brasil. Sou entusiasta de tecnologia com interesse especial em __programação__. Eu curto criar algo do nada. 
 
 Eu também curto café preto, *trabalho em equipe*, molho pesto, *organização e gestão de tempo*, livros sobre *Política e Cibersegurança*, a experiência de comunidade, relações de networking e Linux. Sou desenvolvedora na **DBJus** (Empresa de Tecnologia da Informação focada na Inteligência de Dados em Processos Judiciais), pertencente ao grupo _Jive Investments_, e também realizo projetos autônomos diversificados em paralelo.
 
@@ -30,7 +30,7 @@ JavaScript| [notes-on-javascript](https://github.com/barbaracalderon/notes-on-ja
 
 ### Check out my portfolio: *soon (under re-construction)*
 
-I'm an undergrad student of *Information Systems* (8th semester) at __Universidade Federal de Santa Catarina__ (UFSC), Brazil. I'm a technology enthusiast with a special interest in __programming__. I enjoy creating something out of nothing.
+I'm an undergrad student of *Information Systems* (9th semester) at __Universidade Federal de Santa Catarina__ (UFSC), Brazil. I'm a technology enthusiast with a special interest in __programming__. I enjoy creating something out of nothing.
 
 I also enjoy black coffee, *teamwork*, the pesto sauce, *to be organized and also time management*, books on *Politics and Cybersecurity*, the community experience, networking relationships, and Linux. I am a developer at **DBJus** (Information Technology Company focused on data intelligence in Legal Proceedings), which belongs to _Jive Investments_, and I also work on a diversified number of autonomous projects on the side.
 
