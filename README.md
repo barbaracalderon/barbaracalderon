@@ -13,7 +13,7 @@ Eu também curto café preto, *trabalho em equipe*, molho pesto, *organização 
 - [x] **Áreas**: *Desenvolvimento Backend, Startups, Programação, Engenharia de Software, Inteligência Artificial, Empreendedorismo, Pesquisa, Economia Política Internacional.*
 - [x] **Idiomas**: *Português (Nativo), Inglês (Fluente), Espanhol (Fluente), Alemão (Intermediário) e Francês (Básico).*
 - [x] **Curiosidade**: *Tenho bacharelado em Relações Internacionais e Mestrado Acadêmico em Economia Política Internacional.*
-- [x] **Networking**: [GitHub](https://github.com/barbaracalderon), [Twitter](https://twitter.com/bcalderoni_ti), [Linkedin](https://linkedin.com/in/bcalderoni), [Rocketseat App](https://app.rocketseat.com.br/me/barbara-calderon-00405), [FreeCodeCamp](https://www.freecodecamp.org/fcc8ff5faa1-d589-4ed4-9a0e-ca6e09b6d678)
+- [x] **Networking**: [GitHub](https://github.com/barbaracalderon), [Twitter](https://twitter.com/bederoni), [Linkedin](https://linkedin.com/in/bcalderoni), [Rocketseat App](https://app.rocketseat.com.br/me/barbara-calderon-00405), [FreeCodeCamp](https://www.freecodecamp.org/fcc8ff5faa1-d589-4ed4-9a0e-ca6e09b6d678)
 
 ### Estou aqui para aprender, compartilhar o que sei e manter um registro das coisas.
 Por este motivo, além de códigos, eu também compartilho anotações de estudo em repositórios públicos aqui no GitHub:
@@ -41,7 +41,7 @@ I also enjoy black coffee, *teamwork*, the pesto sauce, *to be organized and als
 - [x] **Areas**: *Backend Development, Startups, Programming, Software Engineering, Artificial Intelligence, Entrepreneurship, Research, International Political Economy.*
 - [x] **Languages**: *Portuguese (Native), English (Fluent), Spanish (Fluent), German (Intermediary) and French (Basic).*
 - [x] **Fun fact**: *I've got an International Relations bachelor's degree and a master's degree on International Political Economy.*
-- [x] **Networking**: [GitHub](https://github.com/barbaracalderon), [Twitter](https://twitter.com/bcalderoni_ti), [Linkedin](https://linkedin.com/in/bcalderoni), [Rocketseat App](https://app.rocketseat.com.br/me/barbara-calderon-00405), [FreeCodeCamp](https://www.freecodecamp.org/fcc8ff5faa1-d589-4ed4-9a0e-ca6e09b6d678)
+- [x] **Networking**: [GitHub](https://github.com/barbaracalderon), [Twitter](https://twitter.com/bederoni), [Linkedin](https://linkedin.com/in/bcalderoni), [Rocketseat App](https://app.rocketseat.com.br/me/barbara-calderon-00405), [FreeCodeCamp](https://www.freecodecamp.org/fcc8ff5faa1-d589-4ed4-9a0e-ca6e09b6d678)
 
 
 ### I'm here to learn, to share what I know and to keep a track of it all.
