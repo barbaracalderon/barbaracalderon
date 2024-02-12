@@ -7,6 +7,8 @@ I have a Bachelor's Degree in *Information Systems* from __Universidade Federal 
 
 My thesis was a pilot project on ["The Brazilian State Official Gazettes web Restful API"](https://github.com/barbaracalderon/dou-rest-api) in which I used the following techs: Python, Javascript, CSS, HTML, Flask, Flask Smorest, Flask Migrate, Flask JWT Extended, SQLAlchemy, Marshmallow, GUnicorn, Psycopg2, SQL, PostgreSQL, SQLite, Passlib, bash script, requirements file, deployment on Render and ElephantSQL.
 
+Another project you might find interesting is ["The 12 Barcodes API"](https://github.com/barbaracalderon/the-12-barcodes-api), a simple, user-friendly RESTful API that provides an easy and practical way to generate barcodes for your applications using HTTP POST methods. If you are a browser user, you can generate them through [Swagger](https://the-12-barcodes-api.onrender.com/swagger-ui). This project was developed in the Flask ecosystem, adopts MVC architecture, and forgoes the traditional database.
+
 I also have a passion for documentaries, *purpose-driven organizations*, black coffee, engaging book stories, *teamwork*, science fiction and suspense movies, pesto sauce, *Linux*, and the community experience. I am a software developer at **DBJus** (Information Technology Company focused on Data Intelligence in Judicial Processes), a part of the *Jive Investments* group, and I also work on a diversified number of autonomous projects on the side.
 
 ## 🔗 Contact Me
@@ -44,6 +46,8 @@ JavaScript| [notes-on-javascript](https://github.com/barbaracalderon/notes-on-ja
 Sou formada em *Sistemas de Informação* pela __Universidade Federal de Santa Catarina__ (UFSC), Brasil (2023). Sou entusiasta de tecnologia com interesse especial em __programação de softwares__. Gosto de criar algo a partir do nada.
 
 Meu TCC foi um projeto piloto sobre ["Diário Oficial da União Web Restful API"](https://github.com/barbaracalderon/dou-rest-api), no qual utilizei as seguintes tecnologias: Python, Javascript, CSS, HTML, Flask, Flask Smorest, Flask Migrate, Flask JWT Extended, SQLAlchemy, Marshmallow, GUnicorn, Psycopg2, SQL, PostgreSQL, SQLite, Passlib, script bash, arquivo de requisitos, implantação no Render e ElephantSQL.
+
+utro projeto que você pode achar interessante é ["The 12 Barcodes API"](https://github.com/barbaracalderon/dou-rest-api), uma API RESTful simples e amigável que fornece uma maneira fácil e prática de gerar códigos de barras para suas aplicações usando métodos HTTP POST. Se você é um usuário de navegador, dá pra gerar pelo [Swagger](https://the-12-barcodes-api.onrender.com/swagger-ui). Este projeto foi desenvolvido no ecossistema Flask, adota a arquitetura MVC e dispensa o banco de dados tradicional.
 
 Tenho paixão por documentários, organizações com propósito, café preto, histórias envolventes em livros, *trabalho em equipe*, filmes de ficção científica e suspense, molho pesto, *Linux* e pela experiência comunitária. Sou desenvolvedora de software na **DBJus** (Empresa de Tecnologia da Informação focada em Inteligência de Dados em Processos Judiciais), parte do grupo *Jive Investments*, e também trabalho em diversos projetos autônomos.
 
