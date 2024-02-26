@@ -9,6 +9,8 @@ My thesis was a pilot project on ["The Brazilian State Official Gazettes web Res
 
 Another project you might find interesting is ["The 12 Barcodes API"](https://github.com/barbaracalderon/the-12-barcodes-api), a simple, user-friendly RESTful API that provides an easy and practical way to generate barcodes for your applications using HTTP POST requests. If you are a browser user, you can generate them through [Swagger](https://the-12-barcodes-api.onrender.com/swagger-ui). This project was developed in the Flask ecosystem, adopts MVC architecture, and forgoes the traditional database.
 
+I also deployed recently a ["Simple Slot Machine Game"](https://github.com/barbaracalderon/simple-slot-machine-game) in order to practice Front-end skills using HTML5, CSS3 and pure Javascript. It's hosted on Render and I used Flask and GUnicorn to do the backend work. Simple project but fun.
+
 I also have a passion for documentaries, *purpose-driven organizations*, black coffee, engaging book stories, *teamwork*, science fiction and suspense movies, pesto sauce, *Linux*, and the community experience. I am a software developer at **DBJus** (Information Technology Company focused on Data Intelligence in Judicial Processes), a part of the *Jive Investments* group, and I also work on a diversified number of autonomous projects on the side.
 
 ## 🔗 Contact Me
@@ -18,7 +20,7 @@ I also have a passion for documentaries, *purpose-driven organizations*, black c
 [![mailto](https://img.shields.io/badge/email-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white?")](mailto:bcalderoni.ti@gmail.com)
 
 ## 🛠 Skills
-- [x] **Currently focused on**: *Backend Development, Python, APIs, Flask, FastAPI, Intelligent Systems, Software Engineering.*
+- [x] **Currently focused on**: *Backend Development, Python, Java, APIs, Flask, FastAPI, Intelligent Systems, Software Engineering.*
 - [x] **But I also know**: *HTML5, CSS3, JavaScript, Node.js, React.js, UI-UX, Bulma, Bootstrap.*
 - [x] **Areas**: *Backend Development, Startups, Programming, Software Engineering, Artificial Intelligence.*
 - [x] **Languages**: *Portuguese (Native), English (Fluent), Spanish (Fluent), German (Intermediary) and French (Basic).*
@@ -47,7 +49,9 @@ Sou formada em *Sistemas de Informação* pela __Universidade Federal de Santa C
 
 Meu TCC foi um projeto piloto sobre ["Diário Oficial da União Web Restful API"](https://github.com/barbaracalderon/dou-rest-api), no qual utilizei as seguintes tecnologias: Python, Javascript, CSS, HTML, Flask, Flask Smorest, Flask Migrate, Flask JWT Extended, SQLAlchemy, Marshmallow, GUnicorn, Psycopg2, SQL, PostgreSQL, SQLite, Passlib, script bash, arquivo de requisitos, implantação no Render e ElephantSQL.
 
-utro projeto que você pode achar interessante é ["The 12 Barcodes API"](https://github.com/barbaracalderon/dou-rest-api), uma API RESTful simples e amigável que fornece uma maneira fácil e prática de gerar códigos de barras para suas aplicações usando requisições do tipo HTTP POST. Se você é um usuário de navegador, dá pra gerar pelo [Swagger](https://the-12-barcodes-api.onrender.com/swagger-ui). Este projeto foi desenvolvido no ecossistema Flask, adota a arquitetura MVC e dispensa o banco de dados tradicional.
+Outro projeto que você pode achar interessante é ["The 12 Barcodes API"](https://github.com/barbaracalderon/dou-rest-api), uma API RESTful simples e amigável que fornece uma maneira fácil e prática de gerar códigos de barras para suas aplicações usando requisições do tipo HTTP POST. Se você é um usuário de navegador, dá pra gerar pelo [Swagger](https://the-12-barcodes-api.onrender.com/swagger-ui). Este projeto foi desenvolvido no ecossistema Flask, adota a arquitetura MVC e dispensa o banco de dados tradicional.
+
+Também implementei recentemente um jogo simples de caça-níqueis de Cassino ["Simple Slot Machine Game"](https://github.com/barbaracalderon/simple-slot-machine-game) para praticar habilidades de Front-end usando HTML5, CSS3 e Javascript puro. Está hospedado no Render, deployado na web e usei Flask e GUnicorn para fazer o trabalho do backend. Projeto simples, mas divertido.
 
 Tenho paixão por documentários, organizações com propósito, café preto, histórias envolventes em livros, *trabalho em equipe*, filmes de ficção científica e suspense, molho pesto, *Linux* e pela experiência comunitária. Sou desenvolvedora de software na **DBJus** (Empresa de Tecnologia da Informação focada em Inteligência de Dados em Processos Judiciais), parte do grupo *Jive Investments*, e também trabalho em diversos projetos autônomos.
 
@@ -58,7 +62,7 @@ Tenho paixão por documentários, organizações com propósito, café preto, hi
 [![email](https://img.shields.io/badge/email-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white?")](mailto:bcalderoni.ti@gmail.com)
 
 ## 🛠 Habilidades
-- [x] **Atualmente focada em**: *Desenvolvimento Backend, Python, APIs, Flask, FastAPI, Sistemas Inteligentes, Engenharia de Software.*
+- [x] **Atualmente focada em**: *Desenvolvimento Backend, Python, Java, APIs, Flask, FastAPI, Sistemas Inteligentes, Engenharia de Software.*
 - [x] **Mas também sei**: *HTML5, CSS3, JavaScript, Node.js, React.js, UI-UX, Bulma, Bootstrap.*
 - [x] **Áreas**: *Desenvolvimento Backend, Startups, Programação, Engenharia de Software, Inteligência Artificial.*
 - [x] **Idiomas**: *Português (Nativo), Inglês (Fluente), Espanhol (Fluente), Alemão (Intermediário) e Francês (Básico).*
