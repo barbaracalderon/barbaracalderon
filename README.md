@@ -20,7 +20,7 @@ I also have a passion for documentaries, *purpose-driven organizations*, black c
 [![mailto](https://img.shields.io/badge/email-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white?")](mailto:bcalderoni.ti@gmail.com)
 
 ## 🛠 Skills
-- [x] **Currently focused on**: *Backend Development, Python, Java, APIs, Flask, FastAPI, Intelligent Systems, Software Engineering.*
+- [x] **Currently focused on**: *Backend Development, Python, Flask, FastAPI, Java, SpringBoot, APIs, Intelligent Systems, Software Engineering.*
 - [x] **But I also know**: *HTML5, CSS3, JavaScript, Node.js, React.js, UI-UX, Bulma, Bootstrap.*
 - [x] **Areas**: *Backend Development, Startups, Programming, Software Engineering, Artificial Intelligence.*
 - [x] **Languages**: *Portuguese (Native), English (Fluent), Spanish (Fluent), German (Intermediary) and French (Basic).*
