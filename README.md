@@ -5,13 +5,19 @@ _(English version | [Clique aqui para versão Português-BR](https://github.com/
 
 I have a Bachelor's Degree in *Information Systems* from __Universidade Federal de Santa Catarina__ (UFSC), Brazil (2023). I'm a technology enthusiast with a special interest in __programming softwares__. I enjoy creating something out of nothing. 
 
-My thesis was a pilot project on ["The Brazilian State Official Gazettes web Restful API"](https://github.com/barbaracalderon/dou-rest-api) in which I used the following techs: Python, Javascript, CSS, HTML, Flask, Flask Smorest, Flask Migrate, Flask JWT Extended, SQLAlchemy, Marshmallow, GUnicorn, Psycopg2, SQL, PostgreSQL, SQLite, Passlib, bash script, requirements file, deployment on Render and ElephantSQL.
+#### In terms of projects, here are a few I've worked upon recently:
 
-Another project you might find interesting is ["The 12 Barcodes API"](https://github.com/barbaracalderon/the-12-barcodes-api), a simple, user-friendly RESTful API that provides an easy and practical way to generate barcodes for your applications using HTTP POST requests. If you are a browser user, you can generate them through [Swagger](https://the-12-barcodes-api.onrender.com/swagger-ui). This project was developed in the Flask ecosystem, adopts MVC architecture, and forgoes the traditional database.
+- My thesis was a pilot project on ["The Brazilian State Official Gazettes web Restful API"](https://github.com/barbaracalderon/dou-rest-api) in which I used the following techs: Python, Javascript, CSS, HTML, Flask, Flask Smorest, Flask Migrate, Flask JWT Extended, SQLAlchemy, Marshmallow, GUnicorn, Psycopg2, SQL, PostgreSQL, SQLite, Passlib, bash script, requirements file, deployment on Render and ElephantSQL.
 
-I also deployed recently a ["Simple Slot Machine Game"](https://github.com/barbaracalderon/simple-slot-machine-game) in order to practice Front-end skills using HTML5, CSS3 and pure Javascript. It's hosted on Render and I used Flask and GUnicorn to do the backend work. Simple project but fun.
+- Another project you might find interesting is ["The 12 Barcodes API"](https://github.com/barbaracalderon/the-12-barcodes-api), a simple, user-friendly RESTful API that provides an easy and practical way to generate barcodes for your applications using HTTP POST requests. If you are a browser user, you can generate them through [Swagger](https://the-12-barcodes-api.onrender.com/swagger-ui). This project was developed in the Flask ecosystem, adopts MVC architecture, and forgoes the traditional database.
 
-I also have a passion for documentaries, *purpose-driven organizations*, black coffee, engaging book stories, *teamwork*, science fiction and suspense movies, pesto sauce, *Linux*, and the community experience. I am a software developer at **DBJus** (Information Technology Company focused on Data Intelligence in Judicial Processes), a part of the *Jive Investments* group, and I also work on a diversified number of autonomous projects on the side.
+- I also deployed recently a ["Simple Slot Machine Game"](https://github.com/barbaracalderon/simple-slot-machine-game) in order to practice Front-end skills using HTML5, CSS3 and pure Javascript. It's hosted on Render and I used Flask and GUnicorn to do the backend work. Simple project but fun.
+
+- Last but not least, I've been delving into the Java ecosystem for backend development ([fmt-tutor-mate](https://github.com/barbaracalderon/fmt-tutor-mate), [fmt-library-manager](https://github.com/barbaracalderon/fmt-library-manager), [fmt-educational-catalog](https://github.com/barbaracalderon/fmt-educational-catalog)). My aim is to enhance my software skills, and I must say, I'm quite fond of Java. I've been developing Restful APIs using technologies such as Spring Boot, Spring Web, Spring Data JPA, Spring Security, Lombok, PostgreSQL, creating database schemas and more. Currently, these projects are created in Portuguese, my native language.
+
+#### More about me:
+
+I have a passion for documentaries, *purpose-driven organizations*, black coffee, engaging book stories, *teamwork*, science fiction and suspense movies, pesto sauce, *Linux*, and the community experience. I am a software developer at **DBJus** (Information Technology Company focused on Data Intelligence in Judicial Processes), a part of the *Jive Investments* group, and I also work on a diversified number of autonomous projects on the side.
 
 ## 🔗 Contact Me
 
