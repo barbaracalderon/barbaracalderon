@@ -3,6 +3,8 @@
 
 _(English version | [Clique aqui para versão Português-BR](https://github.com/barbaracalderon/barbaracalderon-pt/blob/main/README.md))_
 
+### **💻 | My portfolio website (Angular)**: [https://github.com/barbaracalderon/angular-portfolio-app](https://angular-portfolio-app-omega.vercel.app)
+
 I have a Bachelor's Degree in *Information Systems* from __Universidade Federal de Santa Catarina__ (UFSC), Brazil (2023). I'm a technology enthusiast with a special interest in __programming softwares__. I enjoy creating something out of nothing. 
 
 #### In terms of projects, here are a few I've worked upon recently:
