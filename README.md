@@ -9,7 +9,7 @@ I have a Bachelor's Degree in *Information Systems* from __Universidade Federal 
 
 #### In terms of projects, here are a few I've worked upon recently:
 
-- ["TeamTrack"](https://github.com/barbaracalderon/teamtrack) is a full-stack application with backend tests, designed for visualizing projects with an "open" status to track clients and activities. I used the following technologies to implement this: Java, Spring Boot, JUnit, Mockito, Vue.js, Bootstrap, HTML5, CSS3 and Insomnia. 
+- ["TeamTrack"](https://github.com/barbaracalderon/teamtrack) is a full-stack application with backend tests, designed for visualizing projects with an "open" status to track clients and activities. I used the following technologies to implement this: Java, Spring Boot, JPA, Hibernate ORM, PostgreSQL, PostgreSQL Driver, JUnit, Mockito, Vue.js, Bootstrap, HTML5, CSS3 and Insomnia. 
 
 - My thesis was a pilot project on ["The Brazilian State Official Gazettes web Restful API"](https://github.com/barbaracalderon/dou-rest-api) in which I used the following techs: Python, Javascript, CSS, HTML, Flask, Flask Smorest, Flask Migrate, Flask JWT Extended, SQLAlchemy, Marshmallow, GUnicorn, Psycopg2, SQL, PostgreSQL, SQLite, Passlib, bash script, requirements file, deployment on Render and ElephantSQL.
 
