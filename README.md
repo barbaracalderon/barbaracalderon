@@ -29,7 +29,7 @@ I have a Bachelor's Degree in *Information Systems* from __Universidade Federal 
 
 #### More about me:
 
-I have a passion for documentaries, *purpose-driven organizations*, black coffee, engaging book stories, *teamwork*, science fiction and suspense movies, pesto sauce, *Linux*, and the community experience. I am a software developer at **DBJus** (Information Technology Company focused on Data Intelligence in Judicial Processes), a part of the *Jive Investments* group, and I also work on a diversified number of autonomous projects on the side.
+I have a passion for documentaries, *purpose-driven organizations*, black coffee, engaging book stories, *teamwork*, science fiction and suspense movies, pesto sauce, *Linux*, and the community experience. I am a software developer and work on a diversified number of autonomous projects on the side.
 
 ## 🔗 Contact Me
 
