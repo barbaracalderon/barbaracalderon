@@ -35,7 +35,7 @@ I am a technology enthusiast and a fast, adaptive learner. I have a passion for 
 ## 🔥 Current Projects
 
 Here are some highlights from my recent work:
-- **[Forecast CLI](https://github.com/barbaracalderon/forecast-cli** - A minimalist command-line weather application built in Golang.
+- **[Forecast CLI](https://github.com/barbaracalderon/forecast-cli)** - A minimalist command-line weather application built in Golang.
 - **[Oil Pump](https://github.com/barbaracalderon/oil-pump)** - A simulation platform for equipment metrics in oil & gas environments, with Golang, Python, Angular, PostgreSQL, RabbitMQ, and Docker.
 - **[The Casino API](https://github.com/barbaracalderon/casino-backend)** - FastAPI backend for casino transactions with PostgreSQL, Pytest, and Docker.
 - **[Pokédex Project](https://github.com/barbaracalderon/pokedex-api)** - Fullstack Pokémon management system with FastAPI, Angular, and Docker.
