@@ -32,7 +32,7 @@ Former Internationalist with a Master's Degree in International Relations, and a
 
 I am a technology enthusiast and a fast, adaptive learner. I have a passion for documentaries, purpose-driven organizations, black coffee, science-fiction movies, pesto sauce, macadamia and brazilian nuts, occasional gym sessions, and the community experience. I thoroughly enjoy translating ideas into code.
 
-## 🔥 Current Projects
+## 🔥 Latest Projects
 
 Here are some highlights from my recent work:
 - **[Forecast CLI](https://github.com/barbaracalderon/forecast-cli)** - A minimalist command-line weather application built in Golang.
